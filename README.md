@@ -27,8 +27,8 @@ This is **not speculation** —it's reproducible code.
 3. Explore notebooks in `/results/` for full emotions + identities.
 
 ## Citations
-- Sequeira Martínez, J.P. (2025). *Toward a Non-Dual Operator-Informational Ontology: Consciousness, Holography, and the Dynamics of Integrated Trajectories*. Figshare. DOI: [insert if available].
-- Sequeira Martínez, J.P. (2025). *Operator-Informational Framework for Individual Identity, Emotional Patterns, and Phenomenal Experience*. Figshare (under review at *Journal of Philosophical Logic*). DOI: [insert].
+- Sequeira Martínez, J.P. (2025). *Toward a Non-Dual Operator-Informational Ontology: Consciousness, Holography, and the Dynamics of Integrated Trajectories*. Figshare. DOI: 10.6084/m9.figshare.30713075.
+- Sequeira Martínez, J.P. (2025). *Operator-Informational Framework for Individual Identity, Emotional Patterns, and Phenomenal Experience*. Figshare (under review at *Journal of Philosophical Logic*). DOI: 10.6084/m9.figshare.30717002.
 
 
 
