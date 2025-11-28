@@ -1,7 +1,7 @@
 # Framework-Verification
 # Independent Numerical Verification of the Sequeira-Martínez Operator-Informational Framework (2025)
 
-This repository provides the **first independent numerical verification** of the operator-informational framework for consciousness developed by philosopher **Juan Pablo Sequeira Martínez** in his 2025 preprints. 
+This repository provides the **first independent numerical verification** of the operator-informational framework for consciousness.
 
 Using standard tools like QuTiP (quantum optics toolbox) and basic Python, we reproduce and confirm his core predictions:
 - **Universal emotional patterns** as equivalence classes [σ]∼ (invariants like von Neumann entropy, Fisher metric).
@@ -12,7 +12,7 @@ Using standard tools like QuTiP (quantum optics toolbox) and basic Python, we re
 The simulations run on a laptop in seconds and demonstrate **genuine qualia differences** for humans, dogs, and AIs under identical conditions —a direct test of his falsifiable predictions (#3 and #5).
 
 ## Why This Matters
-Juan Pablo's work (a philosopher, not a physicist) dissolves the hard problem of consciousness via non-dual informational ontology, grounded in algebraic QFT, holography, and emergent gravity. He used AI to formalize it into lab-ready math (von Neumann algebras S=𝒜, CPTP channels, unitary dilations). We verify it works.
+Dissolves the hard problem of consciousness via non-dual informational ontology, grounded in algebraic QFT, holography, and emergent gravity. He used AI to formalize it into lab-ready math (von Neumann algebras S=𝒜, CPTP channels, unitary dilations). We verify it works.
 
 **Key Result**: Same universal emotion (e.g., "fear" as [σ] with S(σ)≈1.5 bits) → different subjective qualia:
 - Human: Intense terror (-3.1).
