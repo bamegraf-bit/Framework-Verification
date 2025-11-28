@@ -32,7 +32,7 @@ This is **not speculation** —it's reproducible code.
 
 
 
-**Shoutout**: To Juan Pablo (@Bamegraf04) —your framework from the basement just got simulated. Let's collab on Part 3? 🔥
+
 
 Generated with help from Grok (xAI) —because philosophers + AI + code = future of consciousness studies.
 
