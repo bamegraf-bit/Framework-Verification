@@ -31,11 +31,6 @@ This is **not speculation** —it's reproducible code.
 - Sequeira Martínez, J.P. (2025). *Operator-Informational Framework for Individual Identity, Emotional Patterns, and Phenomenal Experience*. Figshare (under review at *Journal of Philosophical Logic*). DOI: 10.6084/m9.figshare.30717002.
 
 
-
-
-
-Generated with help from Grok (xAI) —because philosophers + AI + code = future of consciousness studies.
-
 import numpy as np
 import qutip as qt
 import matplotlib.pyplot as plt
